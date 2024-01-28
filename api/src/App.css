@@ -18,8 +18,8 @@
 }
 
 img{
-  width: 200px;
-  height: 300px;
+  width: 170px;
+  height: 170px;
   margin-right: 50px;
 }
 
@@ -33,12 +33,13 @@ h2{
   width: 80vw;
   margin-top: 20px;
   margin-bottom: 20px;
+  color: rgb(35, 37, 38);
 }
 
 h4{
-  font-size: 20px;
+  font-size: 16px;
 }
 
 body{
-  background-color: black;
+  background-color: rgb(230, 218, 218);
 }
